@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import hw_02_02 from './hw_02_02';
+import Hw from './hw_2_2';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <hw_02_02 />
+    <Hw />
   </React.StrictMode>,
   document.getElementById('hw-02-t02')
 );
